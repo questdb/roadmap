@@ -6,15 +6,15 @@ Our [public product roadmap](https://github.com/orgs/questdb/projects/1/views/5)
 
 - We use [this GitHub project](https://github.com/orgs/questdb/projects/1/views/5) to present the public roadmap.
 - The roadmap items are **major features or improvements** presented in GitHub issues, with a short summary and expected outcome.
-- The timeline is structured by **fiscal quarters** to show the approximate time of delivery.
-- **The roadmap is subject to change**, especially further out on the timeline. You'll also find a **Future** column, which is used when no concrete timeline is available.
+- The timeline is structured by **quarters** to show the approximate time of delivery.
+- **The roadmap is subject to change**, especially the items further out on the timeline. You'll also find a **Future** column, which is used when no concrete timeline is available.
 - The roadmap items are organized with labels:
-  - `open source`: the feature is planned to release in open source.
-  - `questdb cloud`: the feature will only be available with QuestDB Cloud.
+  - `open source`: the feature will only be available for open source QuestDB.
+  - `questdb cloud`: the feature will only be available for QuestDB Cloud.
   - `enterprise`: the feature will be available in the enterprise version.
   - `idea`: features that are under consideration and require more feedback from the community.
 
-This roadmap is influenced by the official GitHub public product roadmap. Thank you to the team who worked on that for paving the way!
+This roadmap takes inspiration from [the official GitHub public product roadmap](https://github.com/github/roadmap). A huge thank you to the team who worked on that for paving the way!
 
 ### Disclaimer
 
